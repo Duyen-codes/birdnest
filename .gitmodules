@@ -1,0 +1,3 @@
+[submodule "birdnest-backend"]
+	path = birdnest-backend
+	url = https://github.com/Duyen-codes/birdnest-backend

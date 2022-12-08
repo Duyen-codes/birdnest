@@ -1,3 +1,6 @@
 [submodule "birdnest-backend"]
 	path = birdnest-backend
 	url = https://github.com/Duyen-codes/birdnest-backend
+[submodule "birdnest-frontend"]
+	path = birdnest-frontend
+	url = https://github.com/Duyen-codes/birdnest-frontend
